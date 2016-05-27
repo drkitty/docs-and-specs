@@ -3,6 +3,6 @@
 - semi-authoritative, but not specs
 
 ### [AMD Developer Guides, Manuals & ISA Documents](http://developer.amd.com/resources/documentation-articles/developer-guides-manuals/)
-- architecture and programming guides for AMD64
+- architecture and programming guides for AMD64 and various other architectures
 - various other things
 - semi-authoritative, but not specs
