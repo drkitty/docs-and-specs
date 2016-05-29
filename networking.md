@@ -11,11 +11,12 @@
 - briefly summarizes a few IEEE 802 topics
 - occasionally mentions best practices (but see [the BCP RFCs](https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus[]=Best%20Current%20Practice) for more)
 - start with (not necessarily in this order)...
-    - [768](http://www.rfc-editor.org/info/rfc768)
-    - [791](http://www.rfc-editor.org/info/rfc791)
-    - [793](http://www.rfc-editor.org/info/rfc793)
-    - [826](http://www.rfc-editor.org/info/rfc826)
-    - [894](http://www.rfc-editor.org/info/rfc894)
-    - [1034](http://www.rfc-editor.org/info/rfc1034)
-    - [1035](http://www.rfc-editor.org/info/rfc1035)
-    - [1042](http://www.rfc-editor.org/info/rfc1042)
+    - [768 (UDP)](http://www.rfc-editor.org/info/rfc768)
+    - [791 (IPv4)](http://www.rfc-editor.org/info/rfc791)
+    - [793 (TCP)](http://www.rfc-editor.org/info/rfc793)
+    - [826 (ARP)](http://www.rfc-editor.org/info/rfc826)
+    - [1034 (DNS I)](http://www.rfc-editor.org/info/rfc1034)
+    - [1035 (DNS II)](http://www.rfc-editor.org/info/rfc1035)
+    - [1042 (IP over IEEE 802)](http://www.rfc-editor.org/info/rfc1042)
+    - [4632 (CIDR)](http://www.rfc-editor.org/info/rfc4632)
+    - 
