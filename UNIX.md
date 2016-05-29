@@ -9,3 +9,8 @@
 - (requires free registration)
 - basically the same as POSIX
 - [info about provenance, maintainers, and purpose](http://www.unix.org/version4/overview.html)
+
+### [ECMA-48](http://www.ecma-international.org/publications/standards/Ecma-048.htm)
+- details about ancient hardware terminals that also applies to modern terminal emulators
+- somewhat dense
+- some terminology is archaic
