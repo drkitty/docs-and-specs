@@ -9,7 +9,7 @@
 - ugly text-art diagrams
 - friendly terminology (usually)
 - briefly summarizes a few IEEE 802 topics
-- occasionally mentions best practices (but see [the BCP RFCs](https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus[]=Best%20Current%20Practice) for more
+- occasionally mentions best practices (but see [the BCP RFCs](https://www.rfc-editor.org/search/rfc_search_detail.php?sortkey=Number&sorting=DESC&page=All&pubstatus[]=Best%20Current%20Practice) for more)
 - start with (not necessarily in this order)...
     - [768](http://www.rfc-editor.org/info/rfc768)
     - [791](http://www.rfc-editor.org/info/rfc791)
@@ -18,3 +18,4 @@
     - [894](http://www.rfc-editor.org/info/rfc894)
     - [1034](http://www.rfc-editor.org/info/rfc1034)
     - [1035](http://www.rfc-editor.org/info/rfc1035)
+    - [1042](http://www.rfc-editor.org/info/rfc1042)
