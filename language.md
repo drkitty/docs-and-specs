@@ -3,7 +3,7 @@
 ## [ISO/IEC C standard](http://www.open-std.org/jtc1/sc22/wg14/www/standards)
 - normative
 - dense and strangely organized
-- notoriously difficult to interpret, but worth reading (or perhaps skimming) anyway
+- notoriously difficult to interpret, but worth reading (or skimming) anyway
 
 ## [The GNU C Reference Manual](http://www.gnu.org/software/gnu-c-manual/)
 - non-normative, except possibly where it describes GNU extensions
