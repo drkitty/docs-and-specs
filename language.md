@@ -11,12 +11,11 @@
 - teasing apart standard and non-standard features can be annoying at times
 
 ## [The GNU C Library](http://www.gnu.org/software/libc/)
-- historically very large (and probably still)
 - excellent documentation
 - somewhat self-aggrandizing
 
-# Python
 
+# Python
 
 ## Language Reference ([2](https://docs.python.org/2/reference/index.html), [3](https://docs.python.org/3/reference/index.html))
 - section 3 (data model) is especially important
