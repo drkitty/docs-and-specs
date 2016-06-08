@@ -1,6 +1,9 @@
 ### [Linux Foundation Referenced Specifications](https://refspecs.linuxfoundation.org/)
 - links to (and status of) various specs relevant to Linux developers
 
+### [µClibc Specifications](https://uclibc.org/specs.html)
+- list of specs and links to rehosted PDFs
+
 ### [*System V Application Binary Interface*](http://www.sco.com/developers/gabi/)
 - the ELF file format
 - how programs are loaded
