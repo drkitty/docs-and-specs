@@ -6,3 +6,6 @@
 - architecture and programming guides for AMD64 and various other architectures
 - various other things
 - semi-authoritative, but not specs
+
+### [µClibc Specifications](https://uclibc.org/specs.html)
+- list of architecture reference manuals and other resources
