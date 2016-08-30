@@ -7,7 +7,7 @@
     - 802.1AC: Media Access Control (MAC) Service Definition
     - 802.1D: Media Access Control (MAC) Bridges
     - 802.1Q: Bridges and Bridged Networks (contains most of 1D)
-    - 802.2: Logical Link Control (mostly subsumed by RFC 1042)
+    - 802.2: Logical Link Control
     - 802.3: Ethernet
 
 ### [Internet RFCs](https://www.rfc-editor.org/)
