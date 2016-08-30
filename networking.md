@@ -3,14 +3,12 @@
 - very dense, very esoteric terminology
 - probably not a good introduction (read the Internet RFCs first)
 - important sections:
-    - 802 (Overview and Architecture)
-    - 802.1AC (Media Access Control (MAC) Service Definition)
-    - 802.1D (Media Access Control (MAC) Bridges)
-    - 802.1Q (Bridges and Bridged Networks)
-        - contains most of 1D (I think)
-    - 802.2 (Logical Link Control)
-        - mostly subsumed by RFC 1042
-    - 802.3 (Ethernet)
+    - 802: Overview and Architecture
+    - 802.1AC: Media Access Control (MAC) Service Definition
+    - 802.1D: Media Access Control (MAC) Bridges
+    - 802.1Q: Bridges and Bridged Networks (contains most of 1D)
+    - 802.2: Logical Link Control (mostly subsumed by RFC 1042)
+    - 802.3: Ethernet
 
 ### [Internet RFCs](https://www.rfc-editor.org/)
 - authoritative
@@ -24,6 +22,7 @@
     - [792 (ICMP)](https://www.rfc-editor.org/info/rfc792)
     - [793 (TCP)](http://www.rfc-editor.org/info/rfc793)
     - [826 (ARP)](http://www.rfc-editor.org/info/rfc826)
+    - [959 (FTP)](http://www.rfc-editor.org/info/rfc959)
     - [1034 (DNS I)](http://www.rfc-editor.org/info/rfc1034)
     - [1035 (DNS II)](http://www.rfc-editor.org/info/rfc1035)
     - [1042 (IP over IEEE 802)](http://www.rfc-editor.org/info/rfc1042)
