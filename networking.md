@@ -2,6 +2,13 @@
 - authoritative spec for wired Ethernet, WiFi, and many related things
 - very dense, very esoteric terminology
 - probably not a good introduction (read the Internet RFCs first)
+- important sections:
+    - 1AC (Media Access Control (MAC) Service Definition)
+    - 1D (Media Access Control (MAC) Bridges)
+    - 1Q (Bridges and Bridged Networks)
+        - contains most of 1D (I think)
+    - 2 (Logical Link Control)
+    - 3 (IEEE Standard for Ethernet)
 
 ### [Internet RFCs](https://www.rfc-editor.org/)
 - authoritative
