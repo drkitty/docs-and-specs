@@ -6,7 +6,7 @@
     - [DOM (Living Standard)](https://dom.spec.whatwg.org/)
     - [URL (Living Standard)](https://url.spec.whatwg.org/)
 
-## [W3C Standards](https://www.w3.org/standards/)
+## [W3C standards](https://www.w3.org/standards/)
 - fairly formal
 - most important:
     - [HTML5 (2014-10-28)](https://www.w3.org/TR/2014/REC-html5-20141028/)
