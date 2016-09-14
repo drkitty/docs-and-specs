@@ -1,6 +1,6 @@
 ## [WHATWG standards](https://whatwg.org/specs/)
 - informal at times
-- does not appear to describe CSS for the most part
+- no CSS standard
 - most important:
     - [HTML (Living Standard)](https://html.spec.whatwg.org/multipage/)
     - [DOM (Living Standard)](https://dom.spec.whatwg.org/)
