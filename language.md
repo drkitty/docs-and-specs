@@ -23,3 +23,4 @@
 - sections that are hard to search for:
     - [3.3. Special method names](https://docs.python.org/3/reference/datamodel.html#special-method-names)
     - [16.2. io](https://docs.python.org/3/library/io.html)
+    - [16.2.3.4. Text I/O](https://docs.python.org/3/library/io.html#id1)
