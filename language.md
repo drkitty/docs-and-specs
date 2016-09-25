@@ -18,4 +18,8 @@
 # Python
 
 ## Language Reference ([2](https://docs.python.org/2/reference/index.html), [3](https://docs.python.org/3/reference/index.html))
-- section 3 (data model) is especially important
+- important sections:
+    - [3. Data model](https://docs.python.org/3/reference/datamodel.html)
+- sections that are hard to search for:
+    - [3.3. Special method names](https://docs.python.org/3/reference/datamodel.html#special-method-names)
+    - [16.2. io](https://docs.python.org/3/library/io.html)
