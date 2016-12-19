@@ -28,3 +28,5 @@
     - [1042 (IP over IEEE 802)](http://www.rfc-editor.org/info/rfc1042)
 - important Best Current Practices:
     - [4632 (CIDR)](http://www.rfc-editor.org/info/rfc4632)
+- others:
+    - [1912 ("Common DNS Operational and Configuration Errors")](https://www.rfc-editor.org/info/rfc1912)
