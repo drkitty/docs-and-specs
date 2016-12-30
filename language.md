@@ -22,7 +22,10 @@
     - [3. Data model](https://docs.python.org/3/reference/datamodel.html)
 - sections that are hard to search for:
     - [3.3. Special method names](https://docs.python.org/3/reference/datamodel.html#special-method-names)
-    - [16.2. io](https://docs.python.org/3/library/io.html)
-    - [16.2.3.4. Text I/O](https://docs.python.org/3/library/io.html#id1)
+
 
 ## Library Reference ([2](https://docs.python.org/2/library/index.html), [3](https://docs.python.org/3/library/index.html))
+- sections that are hard to search for:
+    - [6.1.3. Format String Syntax](https://docs.python.org/3/library/string.html#formatstrings)
+    - [16.2. io](https://docs.python.org/3/library/io.html)
+    - [16.2.3.4. Text I/O](https://docs.python.org/3/library/io.html#id1)
