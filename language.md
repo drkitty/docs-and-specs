@@ -7,7 +7,7 @@
 
 ## [The GNU C Reference Manual](http://www.gnu.org/software/gnu-c-manual/)
 - non-normative, except possibly where it describes GNU extensions
-- much friendlier
+- much friendlier than the spec
 - teasing apart standard and non-standard features can be annoying at times
 
 ## [The GNU C Library](http://www.gnu.org/software/libc/)
