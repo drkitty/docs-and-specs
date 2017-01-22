@@ -30,3 +30,9 @@
     - [4632 (CIDR)](http://www.rfc-editor.org/info/rfc4632)
 - others:
     - [1912 ("Common DNS Operational and Configuration Errors")](https://www.rfc-editor.org/info/rfc1912)
+- IRC:
+    - [1459 ("Internet Relay Chat Protocol")](https://www.rfc-editor.org/info/rfc1459)
+    - [2810 ("Internet Relay Chat: Architecture")](https://www.rfc-editor.org/info/rfc2810)
+    - [2811 ("Internet Relay Chat: Channel Management")](https://www.rfc-editor.org/info/rfc2811)
+    - [2812 ("Internet Relay Chat: Client Protocol")](https://www.rfc-editor.org/info/rfc2812)
+    - [2813 ("Internet Relay Chat: Server Protocol")](https://www.rfc-editor.org/info/rfc2813)
