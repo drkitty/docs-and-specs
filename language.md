@@ -15,6 +15,12 @@
 - somewhat self-aggrandizing
 
 
+# MATLAB
+
+## [MATLAB Documentation](https://www.mathworks.com/help/matlab/index.html)
+- bad language, decent docs
+
+
 # Python
 
 ## Language Reference ([2](https://docs.python.org/2/reference/index.html), [3](https://docs.python.org/3/reference/index.html))
