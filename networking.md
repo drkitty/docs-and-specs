@@ -10,7 +10,7 @@
     - 802.2: Logical Link Control
     - 802.3: Ethernet
 
-### [Internet RFCs](https://www.rfc-editor.org/)
+### Internet RFCs ([RFC Editor](https://www.rfc-editor.org/), [IETF Datatracker](https://datatracker.ietf.org/doc/))
 - authoritative
 - easy to read
 - ugly text-art diagrams
